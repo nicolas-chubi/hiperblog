@@ -1,3 +1,9 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
 body {
     text-align: center;
     width: 100%;
@@ -8,4 +14,19 @@ body {
 body h1 {
     color: cornsilk;
     font-size: 3.5rem;
+}
+
+
+body .cuadro {
+    width: 75%;
+    height: 125px;
+    background-color: royalblue;
+    margin: auto;
+}
+
+.cuadro h2 {
+    padding: 50px;
+    font-size: 24px;
+    color: sandybrown;
+    font-style: oblique;
 }
