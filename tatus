@@ -1,0 +1,48 @@
+[33mcommit dfb5a1f5d0da7fe91a6ed826aca0f8b2f7878d8c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kolin <nico180597@gmail.com>
+Date:   Mon Aug 16 19:44:33 2021 -0300
+
+    esto es un nuevo commit un nuevo comienzo
+
+ css/style.css | 21 [32m+++++++++++++++++++++[m
+ index.html    |  4 [32m++++[m
+ 2 files changed, 25 insertions(+)
+
+[33mcommit 58121ad38bcc538667b7f454b98f85c7b6ff38f2[m
+Author: kolin <nico180597@gmail.com>
+Date:   Sun Aug 8 20:16:12 2021 -0300
+
+    remplazo de lo que hice de meta
+
+ "espa\303\261ol.txt" | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 45c304b772db4afeac047e8adf5213cd185b3e03[m
+Author: kolin <nico180597@gmail.com>
+Date:   Sun Aug 8 19:21:11 2021 -0300
+
+    cambio auch
+
+ "espa\303\261ol"     | 3 [31m---[m
+ "espa\303\261ol.txt" | 2 [32m+[m[31m-[m
+ 2 files changed, 1 insertion(+), 4 deletions(-)
+
+[33mcommit add65d9cebb448ca73f2b94ce70aceb98775b7a6[m
+Author: kolin <nico180597@gmail.com>
+Date:   Sun Aug 8 19:17:48 2021 -0300
+
+    arrancon mi proyecto html y css
+
+ css/style.css    | 11 [32m+++++++++++[m
+ "espa\303\261ol" |  3 [32m+++[m
+ index.html       | 13 [32m+++++++++++++[m
+ 3 files changed, 27 insertions(+)
+
+[33mcommit 8aee2dd2f4c32873f8c46f891ba849baff147f3f[m
+Author: kolin <nico180597@gmail.com>
+Date:   Tue Aug 3 13:17:43 2021 -0300
+
+    este es el primer commit
+
+ "espa\303\261ol.txt" | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
